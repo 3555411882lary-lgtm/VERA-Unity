@@ -1,23 +1,15 @@
-Applies to independently authored repository code only. For HAST-SEC and third-party terms see third_party/HAST-SEC/.
+HAST-SEC 非商业学习与研究许可证 0.1
 
-MIT License
+Copyright (c) 2026 HAST-SEC 项目贡献者.
 
-Copyright (c) 2026 VRM Quest contributors
+本许可证适用于本项目原创代码、配置及项目方有权许可的运行资源. 第三方软件、模型和素材遵循各自原始许可, 本许可证不替代或限制第三方已经授予的权利.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+允许个人或机构为非商业学习、教学和研究目的使用、复制及修改本项目. 允许为上述目的免费再分发原版或修改版, 必须保留本许可证和第三方许可声明, 明确标注修改内容, 并继续遵守非商业使用限制.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+未经项目权利人事先书面授权, 不得将本项目或其修改版用于商业产品、收费服务、经营活动、商业客户交付、销售或付费部署. 商业使用请通过项目官方仓库的议题联系维护者申请授权. 项目方的商业授权不替代第三方模型、素材或角色所需的授权.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+本许可不授予商标使用权或任何未明确授予的专利许可. 不得以项目方名义为修改版背书, 不得删除著作权或来源声明.
+
+项目按现状提供, 不保证适用于特定用途, 不保证任意中文指令或任意角色均可正确执行. 在适用法律允许的范围内, 贡献者不承担使用本项目造成的损失责任.
+
+违反本许可时, 本许可授予的权利终止. 本版本为公开源码的非商业研究版, 不宣称符合允许自由商业使用的标准开源定义.
